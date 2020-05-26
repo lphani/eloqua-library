@@ -1,0 +1,8 @@
+{
+    "name": "lphani/eloqua-library",
+    "autoload": {
+        "psr-0" : {
+            "Eloqua\\HelloWorld" : "src"
+        }
+    }
+}
